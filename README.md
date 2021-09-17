@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @VladTat
-- 👀 I’m interested in Data Science
+- 👋 Hi, I’m @VladTat.
+- 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on studying
+- 💞️ I’m looking to collaborate on studying.
 - 📫 How to reach me vlad.tat@outlook.com
 
 <!---
